@@ -10,6 +10,8 @@ Since the inception of the internet there has been various testing of executions
 
 Star Topology 
 Now the most commonly used Topology for LAN/ connecting devices to a local network is the Star Topology. Devices are individually connected via central networking devices, i.e. switch or hub. For everyday customers/users are connect to hub for example the Sky Hub or BT Hub, these are the central point for your home network/ local Area Network(LAN). These are the most common because of reliability and scalability. 
+
+
 <img width="463" height="393" alt="image" src="https://github.com/user-attachments/assets/c9d236da-87f8-4ac9-89fb-6a370cc07801" />
 
 
